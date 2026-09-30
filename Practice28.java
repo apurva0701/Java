@@ -33,6 +33,7 @@ public class Practice28 {
             System.out.println(student2.name + " has the higher Java score.");
         } else {
             System.out.println("Both students have the same Java score.");
+            scanner.close();
         }
     }
 }

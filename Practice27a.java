@@ -40,5 +40,6 @@ public class Practice27a {
         System.out.println("Name: " + student2.name);
         System.out.println("Course: " + student2.course);
         System.out.println("Java Score: " + student2.javaScore);
+        scanner.close();
     }
 }
