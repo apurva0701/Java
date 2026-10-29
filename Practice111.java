@@ -11,5 +11,6 @@ class Practice111 {
         sb.setCharAt(index, replacement);
 
         System.out.println(sb);
+        sc.close();
     }
 }

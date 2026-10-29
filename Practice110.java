@@ -9,5 +9,6 @@ class Practice110 {
         StringBuilder sb = new StringBuilder(word);
         sb.replace(0, 1, replacement);
         System.out.println(sb);
+        sc.close();
     }
 }
